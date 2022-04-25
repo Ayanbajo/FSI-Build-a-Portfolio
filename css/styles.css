@@ -1,0 +1,23 @@
+html,
+body {
+    background-color: pink;
+    color: yellow;
+    padding: 15px
+}
+
+
+H1 {background-color: rgb(235, 152, 235);
+    color: yellow
+    
+}
+H1.Port{
+    text-align: center;
+}
+H2 {background-color: rgb(235, 152, 235);
+    color: yellow;
+}
+H3 {background-color: rgb(235, 152, 235);
+    color: yellow;
+
+}
+
